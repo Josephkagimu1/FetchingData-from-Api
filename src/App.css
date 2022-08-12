@@ -1,0 +1,10 @@
+
+.App {
+  text-align: center;
+  background-color: lightblue;
+  padding: 20px;
+}
+
+ul li {
+  list-style: none;
+}
