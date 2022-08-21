@@ -1,10 +1,10 @@
 import './App.css';
-import FetchingData from './components/FetchingData';
+import GetData from './components/GetData';
 
 function App() {
   return (
     <div className="App">
-     <FetchingData />
+    <GetData />
 
     </div>
   );
